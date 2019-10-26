@@ -26,12 +26,12 @@ for x in questions:
 # f.close()
 
 
-f = open("./Data/FaqData.json", "r")
+f = open("./Data/FaqData.json", "r",encoding="utf8")
 data = f.read()
 FaqData = json.loads(data)
 f.close()
 
-f = open("./Data/AnswersData.json", "r")
+f = open("./Data/AnswersData.json", "r",encoding="utf8")
 data = f.read()
 AnswersData = json.loads(data)
 f.close()

@@ -15,9 +15,10 @@
     <SUITE FILE_PATH="coverage/ChatBotApp$setup.coverage" NAME="setup Coverage Results" MODIFIED="1569606802084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ozgur-python-firebase-6b96b32" />
     <SUITE FILE_PATH="coverage/ChatBotApp$App.coverage" NAME="App Coverage Results" MODIFIED="1572089647122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ChatBotApp$chatbot2.coverage" NAME="chatbot2 Coverage Results" MODIFIED="1571211521637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ChatBotApp$Chatbot.coverage" NAME="Chatbot Coverage Results" MODIFIED="1571571586722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ChatBotApp$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1572105697818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChatBotApp$Chatbot.coverage" NAME="Chatbot Coverage Results" MODIFIED="1572110039005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChatBotApp$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1572108948986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ChatBotApp$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1569604566465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ChatBotApp$FuzzyWuzzyAlg.coverage" NAME="FuzzyWuzzyAlg Coverage Results" MODIFIED="1572108955726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KiyaslamaAlg" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KiyaslamaAlg/KiyaslamaAlgoritamalari.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="342">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -47,23 +48,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KiyaslamaAlg/CosineSimilarityAlg.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chatbot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
-              <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+            <state relative-caret-position="200">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#118#166#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chatbot.py">
+        <entry file="file://C:/Program Files/Python37/Lib/encodings/cp1254.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="210">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/venv/Lib/site-packages/fuzzywuzzy/fuzz.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="112" selection-start-line="10" selection-start-column="105" selection-end-line="10" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -83,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KiyaslamaAlg/JaccardAlg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+            <state relative-caret-position="481">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -96,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/Data/EmptyQueryData.json">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="615" selection-start-column="615" selection-end-column="615" />
+              <caret column="636" selection-start-column="636" selection-end-column="636" />
             </state>
           </provider>
         </entry>
@@ -104,8 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data/AnswersData.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="3625">
+              <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
             </state>
           </provider>
         </entry>
@@ -113,13 +123,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data/FaqData.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="-9083">
+              <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -158,19 +168,20 @@
         <option value="$PROJECT_DIR$/static/style.css" />
         <option value="$PROJECT_DIR$/Data/EmptyQueryData.json" />
         <option value="$PROJECT_DIR$/App.py" />
-        <option value="$PROJECT_DIR$/Data/AnswersData.json" />
-        <option value="$PROJECT_DIR$/KiyaslamaAlg/JaccardAlg.py" />
         <option value="$PROJECT_DIR$/KiyaslamaAlg/CosineSimilarityAlg.py" />
         <option value="$PROJECT_DIR$/KiyaslamaAlg/SequenceMatcher.py" />
+        <option value="$PROJECT_DIR$/KiyaslamaAlg/JaccardAlg.py" />
         <option value="$PROJECT_DIR$/KiyaslamaAlg/KiyaslamaAlgoritamalari.py" />
-        <option value="$PROJECT_DIR$/Chatbot.py" />
+        <option value="$PROJECT_DIR$/KiyaslamaAlg/FuzzyWuzzyAlg.py" />
         <option value="$PROJECT_DIR$/Data/FaqData.json" />
+        <option value="$PROJECT_DIR$/Data/AnswersData.json" />
+        <option value="$PROJECT_DIR$/Chatbot.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="930" />
-    <option name="y" value="188" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="864" />
+    <option name="y" value="61" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -209,7 +220,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -230,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chatbot">
+  <component name="RunManager" selected="Python.Chatbot">
     <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ChatBotApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,6 +278,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chatbot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FuzzyWuzzyAlg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChatBotApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KiyaslamaAlg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KiyaslamaAlg/FuzzyWuzzyAlg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,12 +403,14 @@
       <item itemvalue="Python.setup" />
       <item itemvalue="Python.Chatbot" />
       <item itemvalue="Python.App" />
+      <item itemvalue="Python.FuzzyWuzzyAlg" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Chatbot" />
+        <item itemvalue="Python.FuzzyWuzzyAlg" />
         <item itemvalue="Python.chatbot" />
         <item itemvalue="Python.App" />
-        <item itemvalue="Python.Chatbot" />
         <item itemvalue="Python.setup" />
       </list>
     </recent_temporary>
@@ -418,12 +453,12 @@
       <workItem from="1571575317987" duration="177000" />
       <workItem from="1571813148537" duration="1039000" />
       <workItem from="1572089566938" duration="8272000" />
-      <workItem from="1572105692957" duration="613000" />
+      <workItem from="1572105692957" duration="2821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110465000" />
+    <option name="totallyTimeSpent" value="112673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,15 +470,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.26435536" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.26435536" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -588,16 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KiyaslamaAlg/KiyaslamaAlgoritamalari.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/KiyaslamaAlg/CosineSimilarityAlg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
@@ -618,41 +642,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data/EmptyQueryData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="636" selection-start-column="636" selection-end-column="636" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/KiyaslamaAlg/JaccardAlg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        <state relative-caret-position="481">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/EmptyQueryData.json">
+    <entry file="file://$PROJECT_DIR$/KiyaslamaAlg/KiyaslamaAlgoritamalari.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="615" selection-start-column="615" selection-end-column="615" />
+        <state relative-caret-position="342">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/venv/Lib/site-packages/fuzzywuzzy/fuzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="112" selection-start-line="10" selection-start-column="105" selection-end-line="10" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KiyaslamaAlg/FuzzyWuzzyAlg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/FaqData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9083">
+          <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data/AnswersData.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="3625">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/FaqData.json">
+    <entry file="file://C:/Program Files/Python37/Lib/encodings/cp1254.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chatbot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="210">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -662,6 +706,16 @@
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chatbot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#118#166#0" expanded="true" />
           </folding>
         </state>
       </provider>

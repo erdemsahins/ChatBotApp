@@ -2,13 +2,13 @@ from KiyaslamaAlg import SequenceMatcher
 from KiyaslamaAlg import CosineSimilarityAlg
 from KiyaslamaAlg import JaccardAlg
 
+
 """
 Chatbot.py den gelen verileri bütün kıyaslama algoritmalarına gönderilir
 gönderilen veriler doğrultusunda alınan veriler işlenerek son kullanıcıya iletilir.
 yapılan adımlar ;
 1: fonk. verileri gönder 2: Gelen dizilerin kıyaslama oranlarının ortalamsını al 3: listeyi düzenle 4: kullanıcıya cevap gönder
 """
-
 
 def AlgoritmaCagir(faq, answers, question):
     alg1 = SequenceMatcher.possibleAnswer(faq, question)

@@ -1,214 +1,476 @@
 {
-
-  "kantin1": {
-    "1": "kantin nerede",
-    "2": "kantine nas\u0131l gidilir"
+  "1": {
+    "1": "YKS sınavı ile yerleştim kayıt için ne yapmam gerekiyor? "
   },
-  "m\u00fchendislik": {
-    "1": "m\u00fchendislik nerede",
-    "2": "m\u00fchendisli\u011fe nas\u0131l gidilir"
+  "2": {
+    "1": "YKS sınavı ile yerleştirildim. Kayıt için gelemeyecek durumdayım ne yapmalıyım? Posta yolu ile kayıt yaptırabilir miyim?"
   },
-  "yks": {
-    "1": " YKS s\u0131nav\u0131 ile yerle\u015ftim kay\u0131t i\u00e7in ne yapmam gerekiyor?",
-    "2": "Yerle\u015ftim YKS s\u0131nav\u0131 ile, Kay\u0131t i\u00e7in ne yapmal\u0131y\u0131m?",
-    "3": "YKS s\u0131nav\u0131 ile yerle\u015ftim. Ne yapmam gerekiyor kay\u0131t i\u00e7in?",
-    "4": "YKS ile kazand\u0131m kayd\u0131 nas\u0131l yapabilirim?",
-    "5": "Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131\u2019yla yerle\u015ftim kayd\u0131m\u0131 nas\u0131l yapt\u0131rabilirim?",
-    "6": "Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131\u2019yla kazand\u0131m kayd\u0131 nas\u0131l yapabilirim?",
-    "7": "Yerle\u015ftim Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 ile. Ne yapabilirim kay\u0131t i\u00e7in?",
-    "8": "Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 ile yerle\u015ftim ne yapmam gerekiyor kay\u0131t i\u00e7in?"
+  "3": {
+    "1": "Kayıt için gerekli evraklarımda eksiklikler var. Eksik olan bir belge olursa yine de kayıt yaptırabilir miyim?"
   },
-  "yks1": {
-    "1": "YKS s\u0131nav\u0131 ile yerle\u015ftirildim. Kay\u0131t i\u00e7in gelemeyecek durumday\u0131m ne yapmal\u0131y\u0131m? Posta yolu ile kay\u0131t yapt\u0131rabilir miyim?",
-    "2": "Kazand\u0131m YKS s\u0131nav\u0131yla. Kayda gelemeyece\u011fim ne yapmal\u0131y\u0131m? Kargo ile kayd\u0131 yapabilir miyim?",
-    "3": "YKS s\u0131nav\u0131 ile kazand\u0131m. Kay\u0131t i\u00e7in gelebilecek durumda de\u011filim ne yapmal\u0131y\u0131m? Kayd\u0131 posta ile yollayarak yapabilir miyim?",
-    "4": "YKS ile kazand\u0131m. Kay\u0131t i\u00e7in ne yapabilirim, gelebilecek durumda de\u011filim? Posta ile kay\u0131t yapabilir/ yapt\u0131rabilir miyim?",
-    "5": "Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 ile kazand\u0131m. Kay\u0131t i\u00e7in gelebilecek durumda de\u011filim ne yapabilirim? Kargo ile belgeleri g\u00f6ndersem olur mu?",
-    "6": "Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 ile yerle\u015ftim. Gelemeyecek durumday\u0131m kay\u0131t i\u00e7in ne yapabilirim? Posta ile belgeleri g\u00f6nderebilir miyim?",
-    "7": "Yerle\u015ftim Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 ile. Gelemeyecek durumday\u0131m kay\u0131t i\u00e7in ne yapabilirim? Kargo ile evraklar\u0131 g\u00f6ndererek kay\u0131t yapt\u0131rabilir miyim?"
+  "4": {
+    "1": "YKS sonucu üniversitenize yerleştirildim. Yerleşmeme rağmen kayıt olamama durumum olabilir mi? "
   },
-  "yks2": {
-    "1": " Kay\u0131t i\u00e7in gerekli evraklar\u0131mda eksiklikler var. Eksik olan bir belge olursa yine de kay\u0131t yapt\u0131rabilir miyim? ",
-    "2": " Kay\u0131t i\u00e7in gereken belgelerimde eksikler var. Belgeler tamamlanmadan kay\u0131t yapt\u0131rabilir miyim? ",
-    "3": " Eksik var kay\u0131t i\u00e7in gerekli  belgelerimde. Kay\u0131t yapt\u0131rabilir miyim belgelerim eksik olursa? ",
-    "4": " \u00dcniversitenize kay\u0131t i\u00e7in laz\u0131m olan evraklar\u0131m eksik. Eksik belgelerimi tamamlamadan kay\u0131t yapt\u0131rabilir miyim? ",
-    "5": " K\u0131rklareli \u00dcniversitesi\u2019ne kayd\u0131m\u0131 ger\u00e7ekle\u015ftirebilmek i\u00e7in gerekli olan belgelerimin birka\u00e7 tanesi eksik. Belgelerimi tamamlamadan kay\u0131t yapt\u0131rabilir miyim? "
+  "5": {
+    "1": "Danışman kimdir? Ne iş yapar?"
   },
-  "yks3": {
-    "1": " YKS sonucu \u00fcniversitenize yerle\u015ftirildim. Yerle\u015fmeme ra\u011fmen kay\u0131t olamama durumum olabilir mi? ",
-    "2": " Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 sonucu KL\u00dc\u2019ye yerle\u015ftirm. Yerle\u015fmeme ra\u011fmen kayd\u0131 ger\u00e7ekle\u015ftirememe durumu olur mu? ",
-    "3": " Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 sonucu \u00fcniversitenizi kazand\u0131m. Kazanm\u0131\u015f olmama ra\u011fmen kay\u0131t olamama gibi bir durum olur mu? ",
-    "4": " \u00dcniversitenizi kazand\u0131m Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 sonucu. Kay\u0131t olamama gibi bir durum olabilir mi kazanm\u0131\u015f olmama ra\u011fmen? ",
-    "5": " KL\u00dc\u2019ye yerle\u015ftirm Y\u00fcksek \u00d6\u011fretim Kurumlar\u0131 S\u0131nav\u0131 sonucu. Yerle\u015fmeme ra\u011fmen kayd\u0131 ger\u00e7ekle\u015ftirememe durumu olur mu? "
+  "6": {
+    "1": "Kayıt dondurma yapılabilir mi?"
   },
-  "danisman": {
-    "1": "danisman hocam kim",
-    "2": "danisman kimdir? ne i\u015f yapar",
-    "3": " M\u00fc\u015favir kimdir? Ne yapar? ",
-    "4": " Dan\u0131\u015fman \u00f6\u011fretmen kimdir? Ne i\u015f yapar? ",
-    "5": " Dan\u0131\u015fman hoca kimdir? Ne yapar? ",
-    "6": " Kimdir dan\u0131\u015fman \u00f6\u011fretmen? \u0130\u015fi nedir? ",
-    "7": " Kimdir m\u00fc\u015favir? Ne yapar i\u015f? "
+  "7": {
+    "1": "Öğrenim Ücreti Ne Zaman Ve Nasıl Ödenir?"
   },
-  "kayit": {
-    "1": " Kay\u0131t dondurma  yap\u0131labilir mi? ",
-    "2": " Yapabilir miyim kay\u0131t dondurma?  ",
-    "3": " Kay\u0131t dondurabilir miyim? ",
-    "4": " Dondurabilir miyim kay\u0131t? ",
-    "5": " Kay\u0131t dondurabilir miyim? ",
-    "6": " Kay\u0131t durdurabilir miyim "
+  "8": {
+    "1": "Katkı payı ücretlerini kim belirliyor?"
   },
-  "Harc": {
-    "1": " \u00d6\u011frenim \u00dccreti Ne Zaman Ve Nas\u0131l \u00d6denir ? ",
-    "2": " \u00d6\u011frenci harc\u0131 ne zaman ve nas\u0131l \u00f6denir? ",
-    "3": " \u00d6denir ne zaman ve nas\u0131l \u00f6\u011frenim \u00fccreti ? ",
-    "4": " \u00d6\u011frenim \u00fccreti hangi d\u00f6nemde ve nas\u0131l \u00f6denir? ",
-    "5": " Nas\u0131l ve ne zaman \u00f6denir \u00f6\u011frenci harc\u0131? "
+  "9": {
+    "1": "Öğrenciler üniversiteye kesin kaydını süresi içinde yaptıramazsa ne olur? "
   },
-  "Harc2": {
-    "1": " Katk\u0131 pay\u0131 \u00fccretlerini kim belirliyor? ",
-    "2": " \u00d6\u011frenci har\u00e7lar\u0131n\u0131 kim belirliyor?",
-    "3": " Kim belirliyor katk\u0131 pay\u0131n\u0131?",
-    "4": " Kim belirliyor katk\u0131 pay\u0131 \u00fccretlerini?",
-    "5": " Kim belirliyor \u00f6\u011frenci har\u00e7lar\u0131n\u0131?"
+  "10": {
+    "1": "Kesin kayıt için ayrıca rezervasyon yaptırmam gerekir mi?"
   },
-  "Kayit": {
-    "1": " \u00d6\u011frenciler \u00fcniversiteye kesin kayd\u0131n\u0131 s\u00fcresi i\u00e7inde yapt\u0131ramazsa ne olur? ",
-    "2": " Talebeler \u00fcniversiteye kati kayd\u0131n\u0131 belirtilen s\u00fcrede yapmazsa ne olur?",
-    "3": " Belirtilen s\u00fcre zarf\u0131nda \u00f6\u011frenciler okula kayd\u0131n\u0131 yapt\u0131ramazsa ne olur?",
-    "4": " Okula kesin kayd\u0131n\u0131 s\u00fcresi i\u00e7inde yapt\u0131ramazsa \u00f6\u011frenciler ne olur?",
-    "5": " \u00d6\u011frenciler \u00fcniversiteye kesin kayd\u0131n\u0131 belirtilen s\u00fcrede yapmazsa ne olur?"
+  "11": {
+    "1": "Not ortalamam 1,80’in altında olduğu zaman kaç kredilik ders alabilirim?"
   },
-  "Kayit2": {
-    "1": "Kesin kay\u0131t i\u00e7in ayr\u0131ca rezervasyon yapt\u0131rmam gerekir mi? ",
-    "2": "Kati kay\u0131t i\u00e7in ayriyeten rezervasyon yapt\u0131rmam gerekiyor mu?",
-    "3": "Kesin kay\u0131t i\u00e7in \u00f6nceden aray\u0131p bir i\u015flem yapmam gerekiyor mu?",
-    "4": "Aray\u0131p \u00f6nceden bir i\u015flem yapmam gerekiyor mu kesin kay\u0131t i\u00e7in?",
-    "5": "Yapmam gerekiyor mu rezervasyon ayr\u0131ca kesin kay\u0131t i\u00e7in?"
+  "12": {
+    "1": "Başka bir üniversiteye kayıtlıyım. Kayıt için lise diplomamın fotokopisi yeterli olur mu?"
   },
-  "kredi": {
-    "1": "Not ortalamam 1,80\u2019in alt\u0131nda oldu\u011fu zaman ka\u00e7 kredilik ders alabilirim?",
-    "2": "D\u00f6nem ortalamam 1.80\u2019in alt\u0131nda oldu\u011funda ka\u00e7 kredi ders alabiliyorum?",
-    "3": "Alabilirim ka\u00e7 kredilik ders 1.80\u2019in alt\u0131nda not ortalamam oldu\u011funda?",
-    "4": "S\u0131n\u0131r\u0131n alt\u0131nda GANO\u2019ya sahip oldu\u011fumda ka\u00e7 kredilik ders alabilirim?",
-    "5": "Ka\u00e7 kredilik ders alabilirim not ortalamam 1.80\u2019in alt\u0131nda oldu\u011funda?",
-    "6": "Ka\u00e7 kredilik ders alabilirim s\u0131n\u0131r\u0131n alt\u0131nda oldu\u011funda not ortalamam?",
-    "7": "1.80 not ortalamam oldu\u011funda ka\u00e7 kredilik ders alabilirim?"
+  "13": {
+    "1": "Üniversiteyi kazandım, ancak Lise ‘den henüz mezun olmadım. Ne zaman ve nasıl kesin kayıt yaptırabilirim?"
   },
-  "diploma": {
-    "1": "Ba\u015fka bir \u00fcniversiteye kay\u0131tl\u0131y\u0131m. Kay\u0131t i\u00e7in lise diplomam\u0131n fotokopisi yeterli olur mu?",
-    "2": "Ba\u015fka bir y\u00fcksek\u00f6\u011fretimde kayd\u0131m var. Kay\u0131t olmak i\u00e7in diplomam\u0131n kopyas\u0131 yeterli olur mu?",
-    "3": "Kayd\u0131m var ba\u015fka bir \u00fcniversitede. Diplomam\u0131n fotokopisi yeterli olur mu kay\u0131t i\u00e7in?",
-    "4": "Kay\u0131tl\u0131y\u0131m ba\u015fka bir y\u00fcksek\u00f6\u011fretim kurumunda. Yeterli olur mu diploman\u0131n kopyas\u0131 kay\u0131t i\u00e7in?",
-    "5": "Ba\u015fka bir \u00fcniversiteye kay\u0131tl\u0131 oldu\u011fum i\u00e7in diplomam\u0131n asl\u0131n\u0131 getiremeyece\u011fim, fotokopisi yeterli olur mu kay\u0131t i\u00e7in?",
-    "6": "Farkl\u0131 bir \u00fcniversitede kayd\u0131m oldu\u011fu i\u00e7in diplomam\u0131n kopyas\u0131n\u0131 getirsem ge\u00e7erli olur mu?",
-    "7": "1Diploman\u0131n fotokopisini getirsem kay\u0131t i\u00e7in farkl\u0131 bir \u00fcniversitede kayd\u0131m oldu\u011fu i\u00e7in?"
+  "14": {
+    "1": "Üniversitemize yeni kayıt yaptıran öğrencilerin ders alma işlemleri nasıl yapılır?"
   },
-  "lisemezuniyet": {
-    "1": "\u00dcniversiteyi kazand\u0131m, ancak Liseden hen\u00fcz mezun olmad\u0131m. Ne zaman ve nas\u0131l kesin kay\u0131t yapt\u0131rabilirim?",
-    "2": "\u00dcniversiteye yerle\u015fmeye hak kazand\u0131m fakat liseyi hen\u00fcz bitiremedim. Nas\u0131l kay\u0131t yapt\u0131rabilirim?",
-    "3": "Kazand\u0131m \u00fcniversiteyi, hen\u00fcz mezun olamad\u0131m ancak. Nas\u0131l ve ne zaman kesin kay\u0131t yapt\u0131rabilirim?",
-    "4": "\u00dcniversiteye yerle\u015fmeye hak kazand\u0131m ancak liseden mezun olamad\u0131m. Ne zaman ve nas\u0131l kay\u0131t yapt\u0131rabilirim?"
+  "15": {
+    "1": "Kırklareli Üniversitesi programlarına ÖSYM’nin yapacağı yerleştirme dışında kayıt olabilmem mümkün mü?"
   },
-  "dersAlma": {
-    "1": "\u00dcniversitemize yeni kay\u0131t yapt\u0131ran \u00f6\u011frencilerin ders alma i\u015flemleri nas\u0131l yap\u0131l\u0131r?",
-    "2": "\u00dcniversiteye yeni kay\u0131tlar\u0131n ders alma i\u015flemleri nas\u0131l yap\u0131l\u0131r?",
-    "3": "\u00dcniversitede ilk kez ders kayd\u0131 yapacaklar nas\u0131l yapabilir?",
-    "4": "Ders se\u00e7me i\u015flemini nas\u0131l yapabilirler \u00fcniversiteye yeni kay\u0131t olan \u00f6\u011frenciler?"
+  "16": {
+    "1": "Öğrenci belgesini nereden alabilirim?"
   },
-  "osym": {
-    "1": "K\u0131rklareli \u00dcniversitesi programlar\u0131na \u00d6SYM\u2019nin yapaca\u011f\u0131 yerle\u015ftirme d\u0131\u015f\u0131nda kay\u0131t olabilmem m\u00fcmk\u00fcn m\u00fc?",
-    "2": "\u00dcniversitenin programlar\u0131na \u00d6SYM yerle\u015fiminden ba\u015fka bir \u015fekilde kay\u0131t olunabilir mi?",
-    "3": "\u00dcniversitenin b\u00f6l\u00fcmlerine \u00d6SYM\u2019nin yapt\u0131\u011f\u0131 yerle\u015ftirme d\u0131\u015f\u0131nda kay\u0131t yapt\u0131r\u0131labilir mi?",
-    "4": "Kay\u0131t olabilmem m\u00fcmk\u00fcn m\u00fc \u00d6SYM\u2019nin yapaca\u011f\u0131 yerle\u015ftirme d\u0131\u015f\u0131nda K\u0131rklareli \u00dcniversitesi programlar\u0131na?"
+  "17": {
+    "1": "Daha önceden bir yükseköğretim kurumunda kayıtlı olduğumda başarılı olduğum ders/derslerden nasıl muaf olabilirim?"
   },
-  "ogrBelgesi": {
-    "1": "\u00d6\u011frenci belgesini nereden alabilirim?",
-    "2": "\u00d6\u011frenci belgemi alabilirim nereden?",
-    "3": "Nereden alabilirim \u00f6\u011frenci belgemi?",
-    "4": "Alabilirim \u00f6\u011frenci belgemi nereden?",
-    "5": "\u00d6\u011frenci belgemi nereden almal\u0131y\u0131m?",
-    "6": "Talebe dok\u00fcman\u0131m\u0131 nereden alabilirim?",
-    "7": "\u00d6\u011frenci dok\u00fcman\u0131m\u0131 nereden almal\u0131y\u0131m?"
+  "18": {
+    "1": "Akademik başarı not ortalamalarımdan YANO ve GANO ne anlama gelmektedirler?"
   },
-  "muaf": {
-    "1": "Daha \u00f6nceden bir y\u00fcksek\u00f6\u011fretim kurumunda kay\u0131tl\u0131 oldu\u011fumda ba\u015far\u0131l\u0131 oldu\u011fum ders/derslerden nas\u0131l muaf olabilirim?",
-    "2": "Bir \u00fcniversitede kay\u0131tl\u0131 oldu\u011fumdan dolay\u0131 ge\u00e7ti\u011fim dersler affedilmi\u015f say\u0131l\u0131r m\u0131?",
-    "3": "Daha \u00f6nce bir y\u00fcksek\u00f6\u011fretimde kay\u0131tl\u0131 oldu\u011fumdan dolay\u0131 ba\u015far\u0131l\u0131 durumdaki derslerim muaf olabilir mi? Nas\u0131l?",
-    "4": "Ba\u015far\u0131l\u0131 oldu\u011fum derslerden nas\u0131l muaf olabilirim daha \u00f6nceden bir y\u00fcksek\u00f6\u011fretim kurumunda kay\u0131tl\u0131 oldu\u011fum i\u00e7in?"
+  "19": {
+    "1": "Öğrenim ücretimi ödedim ancak kayıt dondurdum. Kayıt dondurduğum dönem için öğrenim ücreti ödemem gerekir mi?"
   },
-  "ortalamalar": {
-    "1": "Akademik ba\u015far\u0131 not ortalamalar\u0131mdan YANO ve GANO ne anlama gelmektedirler?",
-    "2": "GANO ve YANO ne anlama gelir?",
-    "3": "Ne anlama gelir YANO ve GANO?",
-    "4": "Not ortalamalar\u0131ndan YANO GANO nedir?",
-    "5": "Ne anlama gelmektedir GANO ve YANO akademik not ortalamalar\u0131ndan?"
+  "20": {
+    "1": "Öğrenci kaydını sildirmek istediği zaman ne yapmalıdır?"
   },
-  "kay\u0131tDondurma": {
-    "1": "\u00d6\u011frenim \u00fccretimi \u00f6dedim ancak kay\u0131t dondurdum. Kay\u0131t dondurdu\u011fum d\u00f6nem i\u00e7in \u00f6\u011frenim \u00fccreti \u00f6demem gerekir mi?",
-    "2": "\u00d6\u011frenci harc\u0131m\u0131 yat\u0131rd\u0131ktan sonra kayd\u0131m\u0131 dondurdum. Kay\u0131t dondurdu\u011fum d\u00f6nem \u00f6\u011frenci harc\u0131m\u0131 yat\u0131rmal\u0131 m\u0131y\u0131m?",
-    "3": "Katk\u0131 pay\u0131 \u00fccretimi \u00f6dedim fakat kayd\u0131 dondurdum. Kay\u0131t dondurdu\u011fum okul d\u00f6neminin katk\u0131 pay\u0131n\u0131 \u00f6demeli miyim?",
-    "4": "Kayd\u0131 dondurdum ancak \u00f6\u011frenim \u00fccretimi \u00f6dedim. \u00d6\u011frenim \u00fccretimi \u00f6demem gerekir mi kay\u0131t dondurdu\u011fum d\u00f6nem i\u00e7in?"
+  "21": {
+    "1": "Askerlik tecil işlemleri nasıl yapılır?"
   },
-  "kay\u0131tSildirme": {
-    "1": "\u00d6\u011frenci kayd\u0131n\u0131 sildirmek istedi\u011fi zaman ne yapmal\u0131d\u0131r?",
-    "2": "Talebe kayd\u0131n\u0131 sildirmek istedi\u011finde ne yapmal\u0131?",
-    "3": "Ne yapmal\u0131d\u0131r \u00f6\u011frenci kayd\u0131n\u0131 sildirmek istedi\u011finde?",
-    "4": "Sildirmek istedi\u011finde \u00f6\u011frenci kayd\u0131n\u0131 ne yapmal\u0131d\u0131r?"
+  "22": {
+    "1": "Birinci sınıf öğrencileri üst sınıftan ders alabilir mi?"
   },
-  "askerlik": {
-    "1": "Askerlik tecil i\u015flemleri nas\u0131l yap\u0131l\u0131r?"
+  "23": {
+    "1": "Kayıt yaptırmadığım dönem öğrenim süremden sayılır mı?"
   },
-  "dersAlma2": {
-    "1": "Birinci s\u0131n\u0131f \u00f6\u011frencileri \u00fcst s\u0131n\u0131ftan ders alabilir mi?",
-    "2": "\u0130lk s\u0131n\u0131f \u00f6\u011frencileri \u00fcstten ders alabilir mi?",
-    "3": "\u00dcstten ders alabilir mi ilk s\u0131n\u0131f \u00f6\u011frencileri?",
-    "4": "\u00dcst s\u0131n\u0131ftan ders alabilir mi birinci s\u0131n\u0131f talebeleri?"
+  "24": {
+    "1": "Lise diplomamı kaybettim. Kayıt için ne yapmalıyım?"
   },
-  "\u00f6\u011frenimS\u00fcresi": {
-    "1": "Kay\u0131t yapt\u0131rmad\u0131\u011f\u0131m d\u00f6nem \u00f6\u011frenim s\u00fcremden say\u0131l\u0131r m\u0131?",
-    "2": "\u00d6\u011frenim s\u00fcremden say\u0131l\u0131r m\u0131 kay\u0131t yapt\u0131rmad\u0131\u011f\u0131m d\u00f6nem?",
-    "3": "Kay\u0131t olmad\u0131\u011f\u0131m yar\u0131y\u0131llar \u00f6\u011frenim zaman\u0131mdan say\u0131l\u0131r m\u0131?",
-    "4": "\u00d6\u011frenim zaman\u0131mdan say\u0131l\u0131r m\u0131 kay\u0131t olmad\u0131\u011f\u0131m yar\u0131y\u0131llar?"
+  "25": {
+    "1": "Üniversiteniz kampüs ve yerleşkelerine ulaşım nasıl sağlanıyor?"
   },
-  "diploma2": {
-    "1": "Lise diplomam\u0131 kaybettim. Kay\u0131t i\u00e7in ne yapmal\u0131y\u0131m?",
-    "2": "Lise icazetnamemi kaybettim. Ne yapmal\u0131y\u0131m kay\u0131t i\u00e7in?",
-    "3": "Kay\u0131t lise diplomam. Ne yapabilirim kay\u0131t i\u00e7in?",
-    "4": "Lise diplomam olmadan kay\u0131t yapt\u0131rabilir miyim?"
+  "26": {
+    "1": "Kırklareli’ de yurt ve barınma imkanları nelerdir?"
   },
-  "ulas\u0131m": {
-    "1": "\u00dcniversiteniz kamp\u00fcs ve yerle\u015fkelerine ula\u015f\u0131m nas\u0131l sa\u011flan\u0131yor?",
-    "2": "\u00dcniversitenin yerle\u015fkelerine nas\u0131l ula\u015fabilirim?",
-    "3": "Nas\u0131l ula\u015fabilirim yerle\u015fkelerine ve kamp\u00fcs\u00fcne \u00fcniversitenin?"
+  "27": {
+    "1": "Staj başvurusu ne zaman ve nasıl yapılır? Hangi işletmelerde staj yapabilirim?"
   },
-  "imkan": {
-    "1": "K\u0131rklareli\u2019 de yurt ve bar\u0131nma imkanlar\u0131 nelerdir?",
-    "2": "K\u0131rklareli\u2019nin bar\u0131nma olanaklar\u0131 nelerdir?",
-    "3": "Bar\u0131nma ve yurt olanaklar\u0131 nelerdir \u015fehrin?",
-    "4": "\u015eehrin tahaffuz ve emlak olanaklar\u0131 nelerdir?"
+  "28": {
+    "1": "Ders ve sınav programlarını nereden öğrenebilirim?"
   },
-  "staj": {
-    "1": "Staj ba\u015fvurusu ne zaman ve nas\u0131l yap\u0131l\u0131r? Hangi i\u015fletmelerde staj yapabilirim?",
-    "2": "Staj m\u00fcracaat\u0131 ne zaman ve nas\u0131l yap\u0131l\u0131r? Hangi i\u015fletmelerde staj yap\u0131labilir?",
-    "3": "Ne zaman ve nas\u0131l staj m\u00fcracaat\u0131 yap\u0131l\u0131r? \u0130\u015fletmelerde hangi staj yapabilirim?"
+  "29": {
+    "1": "Kampüse veya sınavlara girerken öğrenci kimlik kartım yanımda yoksa ne yapmalıyım?"
   },
-  "dersProgram\u0131": {
-    "1": "Ders ve s\u0131nav programlar\u0131n\u0131 nereden \u00f6\u011frenebilirim?",
-    "2": "B\u00f6l\u00fcm\u00fcmle alakal\u0131 programlar\u0131 nereden \u00f6\u011frenebilirim?",
-    "3": "Program\u0131m\u0131n ders ve s\u0131nav programlar\u0131n\u0131 nereden \u00f6\u011frenebilirim?",
-    "4": "Nereden \u00f6\u011frenebilirim ders ve s\u0131nav programlar\u0131n\u0131?"
+  "30": {
+    "1": "Öğrenci Kulüpleri Nelerdir? Nasıl Üye olabilirim?"
   },
-  "ogrKimlik": {
-    "1": "Kamp\u00fcse veya s\u0131navlara girerken \u00f6\u011frenci kimlik kart\u0131m yan\u0131mda yoksa ne yapmal\u0131y\u0131m?",
-    "2": "Okula girerken veya imtihanlarda \u00f6\u011frenci belgem yan\u0131mda yoksa ne yapabilirim?",
-    "3": "Talebe kart\u0131m yan\u0131mda yoksa ne yapmal\u0131y\u0131m yerle\u015fkeye veya imtihanlara girerken?",
-    "4": "Ne yapmal\u0131y\u0131m kamp\u00fcse yada s\u0131navlara girerken \u00f6\u011frenci kart\u0131m yan\u0131mda de\u011filse?"
+  "31": {
+    "1": "e-POSTA HESABI NASIL ALINIR?"
   },
-  "ogrKulup": {
-    "1": "\u00d6\u011frenci Kul\u00fcpleri Nelerdir? Nas\u0131l \u00dcye olabilirim?",
-    "2": "\u00d6\u011frenci topluluklar\u0131 nelerdir? Nas\u0131l kat\u0131labilirim?",
-    "3": "Nelerdir \u00f6\u011frenci topluluklar\u0131? Kat\u0131lmak i\u00e7in ne yapmal\u0131y\u0131m?",
-    "4": "Kul\u00fcpleri nelerdir \u00f6\u011frenci? \u00dcye olabilirim nas\u0131l?"
+  "32": {
+    "1": "E-POSTA ŞİFRESİ NASIL SIFIRLANIR?"
+  },
+  "33": {
+    "1": "EBYS KULLANICI GİRİŞİ YAPAMIYORUM.NE YAPABİLİRİM?"
+  },
+  "34": {
+    "1": "EBYS-YE E-İMZA İLE GİRİŞ YAPTIĞIM HALDE BELGEYİ E-İMZA İLE İMZALAYAMIYORUM.NE YAPABİLİRİM?"
+  },
+  "35": {
+    "1": "EBYS'DE BELGEYE PARAF ATAMIYORUM.NE YAPABİLİRİM?"
+  },
+  "36": {
+    "1": "ÖĞRENCİ BİLİGİ SİSTEMİNDE KULLANICI GİRİŞİ YAPAMIYORUM.NE YAPABİLİRİM?"
+  },
+  "37": {
+    "1": "BİLGİ YÖNETİM SİSTEMİ NEDİR?"
+  },
+  "38": {
+    "1": "DESTEK TALEP SİSTEMİ NEDİR?"
+  },
+  "39": {
+    "1": "İÇERİK YÖNETİM SİSTEMİ NEDİR?"
+  },
+  "40": {
+    "1": "PERSONEL WEB YÖNETİM SİSTEMİ NEDİR?"
+  },
+  "41": {
+    "1": "Kimler Bap Proje Başvurusu Yapabilir?"
+  },
+  "42": {
+    "1": "Kimler Proje Yürütücüsü Olarak Başvuruda Bulunabilir?"
+  },
+  "43": {
+    "1": "Başvurular Ne Zaman Ve Nasıl Yapılacaktır?"
+  },
+  "44": {
+    "1": "En Fazla Kaç Adet Proje Başvurusu Yapılabilir?"
+  },
+  "45": {
+    "1": "Başvurular Ne Şekilde Değerlendirilir?"
+  },
+  "46": {
+    "1": "Projelerin Yararlanabileceği Destek Miktarı Nedir?"
+  },
+  "47": {
+    "1": "Proje Süresi Ne Kadar Olabilir?"
+  },
+  "48": {
+    "1": "Proje Başvurularında Başka Üniversite Ya Da Kurumlarla Işbirliği Yapılabilir Mi?"
+  },
+  "49": {
+    "1": "Proje Önerilerinde Çalıştırılacak Personel Ile Ilgili Uygulama Prensibi Nedir?"
+  },
+  "50": {
+    "1": "Proje Önerilerinde Yurt Içi Ve Yurt Dışı Bilimsel Konferanslara Katılım Bap Fonundan Desteklenebilir Mi?"
+  },
+  "51": {
+    "1": "Yurtiçi Ve Yurt Dışı Yolluk/harcırah Giderleri Için Üniversitenin Önceden Belirlemiş Olduğu Sınırlamalar Ya Da Rayiçler Var Mı?"
+  },
+  "52": {
+    "1": "Kongre/sempozyum Katılım Ücreti Ne Zaman Ödenir?"
+  },
+  "53": {
+    "1": "Projem Kabul Edildi. Mal Ve Malzeme Alımlarını Nasıl Yapabilirim?"
+  },
+  "54": {
+    "1": "Proje Raporlarımı Nasıl Ve Nereye Teslim Edebilirim?"
+  },
+  "55": {
+    "1": "Projemde Bütçe Kalemleri Arası (Tüketim / Yolluk / Demirbaş / Hizmet Bütçeleri) Aktarma Gerçekleştirebilir Miyim? Bunun Için Ne Yapmak Gerekiyor?"
+  },
+  "56": {
+    "1": "Projem Için Ek Süre/ek Bütçe/dondurma Talebi Yapabiliyor Muyum?"
+  },
+  "57": {
+    "1": "Projemi Nasıl Ve En Fazla Ne Kadar Sürede Sonlandırabilirim?"
+  },
+  "58": {
+    "1": "Proje Tamamlandıktan Sonra Yayına Dönüştürme Zorunluluğu Var Mıdır?"
+  },
+  "59": {
+    "1": "Projeden Çıkacak Yayınlar Için Ne Yapmam Gerekir?"
+  },
+  "60": {
+    "1": "Dpt, Tübitak, Ab Projeleri Için Neler Yapmam Gerekir?"
+  },
+  "61": {
+    "1": "Projede Araştırma Görevlisiyim, Proje Başvurusunu Veya Yürüyen Bir Proje Ile Ilgili Bir Talebi Ben Gerçekleştirebilir Miyim?"
+  },
+  "62": {
+    "1": "Devam Etmekte Olan Bir Nap(Normal Araştırma Projesi /önap (Çok Disiplinli Öncelikli Alan Projeleri) Projesinin Yürütücüsüyüm. Yeni Bir Nap/önap Projesi Için Başvuru Yapabilir Miyim?"
+  },
+  "63": {
+    "1": "Devam Etmekte Olan Bir Nap/önap Projesinin Yürütücüsüyüm. Yeni Bir Tez Projesi Için Başvuru Yapabilir Miyim?"
+  },
+  "64": {
+    "1": "Bir Araştırmacının Yürütebileceği Tez Projelerinin Sayısında Herhangi Bir Sınırlama Var Mı?"
+  },
+  "65": {
+    "1": "Çocuk Üniversitesi Nedir?"
+  },
+  "66": {
+    "1": "Atölyeler hangi tarihlerde yapılacaktır?"
+  },
+  "67": {
+    "1": "Atölyeler kaç gün sürecek? Hangi saat aralıklarında olacak?"
+  },
+  "68": {
+    "1": "Bir öğrenci en fazla kaç atölyeye katılabilir?"
+  },
+  "69": {
+    "1": "Başvurular nasıl ve ne zaman gerçekleştirilecektir?"
+  },
+  "70": {
+    "1": "Program ücreti ne kadardır?"
+  },
+  "71": {
+    "1": "Eğitim ücretleri nereye yatırılacaktır?"
+  },
+  "72": {
+    "1": "Eğitimler nerede gerçekleştirilecektir?"
+  },
+  "73": {
+    "1": "Eğitimler kimler tarafından verilecektir?"
+  },
+  "74": {
+    "1": "Servis hizmeti var mıdır?"
+  },
+  "75": {
+    "1": "2018-2019 eğitim öğretim yılında mezun olan öğrenciler hangi programlara katılabilirler?"
+  },
+  "76": {
+    "1": "Veri tabanlarında Yer Alan E-Kitaplarıda Katalog Taramada Görebilir Miyim?"
+  },
+  "77": {
+    "1": "Veri Tabanlarından Çıktı Alabilir, Bilgisayarıma Kaydedebilir Yada E-Mailime Gönderebilir Miyim?"
+  },
+  "78": {
+    "1": "Veri tabanlarına Kampüs Dışından Nasıl Ulaşabilirim?"
+  },
+  "79": {
+    "1": "Kütüphanede Hangi Veri tabanları Mevcut?"
+  },
+  "80": {
+    "1": "Kendi Kütüphanemizde Bulunmayan Yayınları Başka Bir Kütüphaneden Getirtebilir Miyim?"
+  },
+  "81": {
+    "1": "Kütüphaneler arası Ödünç Verme Sistemi (Ill) Ile Yayın Getirtmek Için Ne Yapmalıyım?"
+  },
+  "82": {
+    "1": "Kütüphane Hesabıma (Üye Girişine) Girdikten Sonra Hangi Işlemleri Yapabilirim?"
+  },
+  "83": {
+    "1": "Web Üzerinden Kütüphane Hesabıma Nasıl Girebilirim?"
+  },
+  "84": {
+    "1": "Uzatma İşlemini Nasıl Yapabilirim?"
+  },
+  "85": {
+    "1": "Ödünç Aldığım Yayınların Ödünç Tarihini Uzatma Imkanım Var Mı?"
+  },
+  "86": {
+    "1": "Kütüphaneden En Fazla Kaç Yayın Kaç Gün Süreyle Ödünç Alabilirim?"
+  },
+  "87": {
+    "1": "Kütüphanede Bulunan Yayınları Nasıl Görebilirim?"
+  },
+  "88": {
+    "1": "Kütüphane Çalışma Saatleri Nedir?"
+  },
+  "89": {
+    "1": "Microsoft IT Academy nedir?"
+  },
+  "90": {
+    "1": "KLU IT Academy nedir?"
+  },
+  "91": {
+    "1": "KLU IT Academy Eğitimleri nedir?"
+  },
+  "92": {
+    "1": "KLU IT Academy eğitimleri bana ne kazandırır?"
+  },
+  "93": {
+    "1": "KLU IT Academy Eğitimleri ne zaman?"
+  },
+  "94": {
+    "1": "Kayıt için herhangi bir ön şart var mıdır?"
+  },
+  "95": {
+    "1": "KLU IT Academy Eğitimlerine nasıl kayıt olabilirim?"
+  },
+  "96": {
+    "1": "Eğitim nasıl verilecektir?"
+  },
+  "97": {
+    "1": "Şuan Hangi Ortak Dersleri Kluzem Vermekte? Bu Dersler Hakkında Nasıl Bilgi Alabiliriz?"
+  },
+  "98": {
+    "1": "Uzaktan öğretim için gereksinimler nelerdir?"
+  },
+  "99": {
+    "1": "Uzem in Görevi Nedir?"
+  },
+  "100": {
+    "1": "Sisteme Nasıl Girebilirim? Şifremi Unuttum. Ne Yapmalıyım?"
+  },
+  "101": {
+    "1": "Uzaktan Eğitim Dersine Devam Zorunluluğu Var Mı?"
+  },
+  "102": {
+    "1": "Ders Içeriklerini Kolayca Görüntüleyebilmek Için Bilgisayarımda Ne Tür Bir Donanıma Ihtiyaç Var?"
+  },
+  "103": {
+    "1": "Hangi Internet Browser’Inı Kullanmalıyım?"
+  },
+  "104": {
+    "1": "Uzaktan Eğitim Dersleri Video Ve Ses Içermektedir. Bunlar Nasıl Daha Etkin Çalıştırılabilir?"
+  },
+  "105": {
+    "1": "İyi Birer Uzaktan Eğitim Öğrencisi Olmanın Şartları Nelerdir?"
+  },
+  "106": {
+    "1": "Erasmus+ programına katılmak için ne yapmalıyız?"
+  },
+  "107": {
+    "1": "Not ortalamamız 2.20'nin altında olursa programdan yararlanabilir miyiz?"
+  },
+  "108": {
+    "1": "Not ortalamamız sınav sonucuna etkili olacak mı?"
+  },
+  "109": {
+    "1": "Sözlü sınav yapılacak mı ve sınavlar için ücret ödeniyor mu?"
+  },
+  "110": {
+    "1": "Ne kadar hibe alacağız?"
+  },
+  "111": {
+    "1": "Hibelerimizi neye göre alacağız?"
+  },
+  "112": {
+    "1": "Aynı üniversiteye gidecek öğrencilerin hibeleri neden farklı?"
+  },
+  "113": {
+    "1": "Hibeler aylık mı yatacak?"
+  },
+  "114": {
+    "1": "Vize için üniversiteden yazı almamıza rağmen niçin konsoloslukta vize ücreti ödüyoruz?"
+  },
+  "115": {
+    "1": "Hibe anlaşmasını neden iki (2) tane yapıyoruz?"
+  },
+  "116": {
+    "1": "Pasaport için ödenen defter bedeli ne kadardır?"
+  },
+  "117": {
+    "1": "Neden EURO hesabı açtırmak gereklidir?"
+  },
+  "118": {
+    "1": "Hibe anlaşmasının üstündeki tarihler neye göre belirlenir?"
+  },
+  "119": {
+    "1": "Yurtdışında eğitim görülecek olan üniversitelerde konaklama yerini nasıl bulacağız?"
+  },
+  "120": {
+    "1": "Hibeler ne zaman yatar?"
+  },
+  "121": {
+    "1": "Gidilen ülkede bizi karşılayacaklar mı?"
+  },
+  "122": {
+    "1": "Verilen hibeler bize kaldığımız süre zarfında yeterli olacak mı?"
+  },
+  "123": {
+    "1": "Gidilen üniversitelerde alacağımız dersler İngilizce mi olacak?"
+  },
+  "124": {
+    "1": "Gittiğimiz üniversitede dil kursu olacak mı?"
+  },
+  "125": {
+    "1": "Hangi üniversitelere gidebilirim?"
+  },
+  "126": {
+    "1": "İntibak belgesini nasıl dolduracağım? "
+  },
+  "127": {
+    "1": "Kabul mektubum gelmedi, ne yapmalıyım?"
+  },
+  "128": {
+    "1": "Vizem çıkmadı, ders kaydımı yaptırmalı mıyım?"
+  },
+  "129": {
+    "1": "Erasmus+ programı ile yurtdışındaki üniversitede öğrenimime devam edeceğim, harcı hangi üniversiteye yatıracağım?"
+  },
+  "130": {
+    "1": "Yurtdışına çıkmadan Kırklareli Üniversitesi'nde kayıt ve ders seçimi yapacak mıyım?"
+  },
+  "131": {
+    "1": "Erasmus+ Öğrenci Beyannamesi nedir? "
+  },
+  "132": {
+    "1": "Öğrenci üniversiteye başladığı yıl Erasmus+ programından yararlanabilir mi?"
+  },
+  "133": {
+    "1": "Önlisans öğrencileri değişim yapabilir mi?"
+  },
+  "134": {
+    "1": "Yüksek lisans kademesinde Erasmus+ programından faydalanmış olan bir öğrenci doktora kademesinde de programdan yararlanabilir mi?"
+  },
+  "135": {
+    "1": "İntibak belgesinde yazılması gereken üniversite Erasmus kodlarını nereden bulabiliriz?"
+  },
+  "136": {
+    "1": "Öğrenimimi yurt dışında tamamladım, %20'lik hibe/kalan hibeyi almak için ne yapmalıyım?"
+  },
+  "137": {
+    "1": "Dönüşte alacağım %20'lik hibenin verilmeme olasılığı var mı?"
+  },
+  "138": {
+    "1": "İki dönemliğine gittim, bir dönem kaldım, ne yapmalıyım?"
+  },
+  "139": {
+    "1": "Gittiğim üniversitede planlanan faaliyet dönemi tamamlanmadan geri döndüğüm takdirde nasıl bir uygulamayla karşılaşırım?"
+  },
+  "140": {
+    "1": "Ders intibaklarındaki AKTS (ECTS) kredileri neye göre düzenleniyor?"
+  },
+  "141": {
+    "1": "Yurtdışında alınan AKTS'nin Kırklareli Üniversitesi'ndeki not dönüşümü nasıl yapılmaktadır?"
+  },
+  "142": {
+    "1": "Engelli öğrenciyim, şartlar benim için de aynı mı?"
+  },
+  "143": {
+    "1": "Sınavda yedekler listesindeyim ne yapmalıyım?"
+  },
+  "144": {
+    "1": "Tercihimi değiştirmek istiyorum ne yapabilirim?"
+  },
+  "145": {
+    "1": "GÜZ dönemi için yurtdışına tek dönemlik giden bir öğrenci eğitim dönemini BAHAR dönemi için de uzatabilir mi?"
+  },
+  "146": {
+    "1": "Kabul belgemin ve hibe sözleşmemin 1 dönemlik olması ve öğrenim anlaşmamın 2 dönemlik olması halinde, 2. dönem için de Erasmus+ öğrencisi sayılır mıyım?"
+  },
+  "147": {
+    "1": "Açıköğretim ve/veya uzaktan eğitim öğrencisiyim, Erasmus+ programından yararlanabilir miyim?"
+  },
+  "148": {
+    "1": "Alttan kalan dersim var, programdan yararlanabilir miyim?"
+  },
+  "149": {
+    "1": "OLS Sistemi Nedir?"
+  },
+  "150": {
+    "1": "Hangi dilleri kapsamaktadır?"
+  },
+  "151": {
+    "1": "Çevrimiçi Dil Desteği'ne nasıl katılabiliriz?"
+  },
+  "152": {
+    "1": "AB Anketi (EU Survey) nedir?"
+  },
+  "153": {
+    "1": "Öğrenim hareketliliği öncesinde hangi sigortaları yaptırmam gereklidir?"
+  },
+  "154": {
+    "1": "Hibe hesaplaması nasıl yapılmaktadır?"
+  },
+  "155": {
+    "1": "Program Ülkeleri (KA103) ile Ortak Ülkeler (KA107) hangi ülkeleri kapsamaktadır?"
+  },
+  "156": {
+    "1": "Öğrenciler seyahat hibesi desteği alabiliyor mu?"
+  },
+  "157": {
+    "1": "KA107 projesinde öğrenciler ne kadar aylık hibe miktarı alacaktır?"
+  },
+  "158": {
+    "1": "KA107 projesinde Çevrimiçi Dil Desteği verilecek midir?"
   }
 }
