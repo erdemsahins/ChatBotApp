@@ -36,6 +36,11 @@ data = f.read()
 AnswersData = json.loads(data)
 f.close()
 
+f = open("./Data/JsonData.json", "r",encoding="utf8")
+data = f.read()
+JsonData = json.loads(data)
+f.close()
+
 # def gelen (questions):
 #      OrtakCevap = KiyaslamaAlgoritamalari.AlgoritmaCagir(FaqData, AnswersData, questions)
 #      return OrtakCevap
@@ -43,7 +48,7 @@ f.close()
 
 Soru = input("\nSoruyu Seçiniz : ")
 # capitalize gelen cümlenin sadece baş harfinin büyük olmasını sağlar.
-OrtakCevap = KiyaslamaAlgoritamalari.AlgoritmaCagir(FaqData, AnswersData, questions[int(Soru)].capitalize())
+OrtakCevap = KiyaslamaAlgoritamalari.AlgoritmaCagir(JsonData, questions[int(Soru)].capitalize())
 
 print("Bot:\n\t " + OrtakCevap)
 

@@ -10,10 +10,10 @@ yapılan adımlar ;
 1: fonk. verileri gönder 2: Gelen dizilerin kıyaslama oranlarının ortalamsını al 3: listeyi düzenle 4: kullanıcıya cevap gönder
 """
 
-def AlgoritmaCagir(faq, answers, question):
-    alg1 = SequenceMatcher.possibleAnswer(faq, question)
-    alg2 = CosineSimilarityAlg.CosineSimilarity(faq, question)
-    alg3 = JaccardAlg.get_jaccard_sim(faq, question)
+def AlgoritmaCagir(JsonData, question):
+    alg1 = SequenceMatcher.possibleAnswer(JsonData, question)
+    alg2 = CosineSimilarityAlg.CosineSimilarity(JsonData, question)
+    alg3 = JaccardAlg.get_jaccard_sim(JsonData, question)
 
     # ortalama alınması için algoritmaların
     ortalama = Ortalama(alg1, alg2, alg3)
@@ -35,7 +35,8 @@ def AlgoritmaCagir(faq, answers, question):
     else:
         key = "Null"
 
-    return answers.get(key, '')
+    cevap = JsonData.get(key,'')
+    return cevap.get("answer","")
 
 
 """
