@@ -8,17 +8,18 @@ Jac(x,y)=(xny)/(|x|+|y|-|xny|)
 """
 
 
-def get_jaccard_sim(faq, question):
+def get_jaccard_sim(Data, question):
     distances = {}
-    for key, value in faq.items():
+    for key, value in Data.items():
         distances[key] = 0
         for key2, value2 in value.items():
-            a = set(str(value2).capitalize().split())
-            b = set(question.split())
-            c = a.intersection(b)
-            d = float(len(c)) / (len(a) + len(b) - len(c))
-            if distances[key] < d:
-                distances[key] = d
+            if key2 == "faq":
+                a = set(str(value2).capitalize().split())
+                b = set(question.split())
+                c = a.intersection(b)
+                d = float(len(c)) / (len(a) + len(b) - len(c))
+                if distances[key] < d:
+                    distances[key] = d
 
     oran = (max(distances.items(), key=operator.itemgetter(1)))[1]
     if oran > 0.3:
