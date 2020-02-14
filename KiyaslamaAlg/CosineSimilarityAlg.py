@@ -37,12 +37,22 @@ def CosineSimilarity(faq, question):
     for key, value in faq.items():
         distances[key] = 0
         for key2, value2 in value.items():
+<<<<<<< Updated upstream
             value2 = str(value2).capitalize()
             vector1 = text_to_vector(value2)
             vector2 = text_to_vector(question)
             cosine = get_cosine(vector1, vector2)
             if distances[key] < cosine:
                 distances[key] = cosine
+=======
+            if(key2=="faq"):
+                value2 = str(value2).lower()
+                vector1 = text_to_vector(value2)
+                vector2 = text_to_vector(question)
+                cosine = get_cosine(vector1, vector2)
+                distances[key] = cosine
+
+>>>>>>> Stashed changes
     oran = (max(distances.items(), key=operator.itemgetter(1)))[1]
     if oran > 0.4:
         enYuksekİkiDeger = heapq.nlargest(2, distances.items(), key=operator.itemgetter(1))

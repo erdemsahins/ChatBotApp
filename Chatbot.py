@@ -6,10 +6,10 @@ Created on 27.09.2019 20:10
 """
 
 from KiyaslamaAlg import KiyaslamaAlgoritamalari
+import noisy_text_normalization
 import json
 
-questions = ["okul kantini nerede ?", "okul kantinine nasıl gidebilirim ?",
-             "kantin mühendisliğin neresinde?", "mühendisliğe nasıl gidilir?", "Danışman ne iş yapar?",
+questions = ["Danışman ne iş yapar?",
              "Kayıt için ne yapmam gerekiyor ?",
              "gelemiyorum kayıt için ne yapmam gerekiyor",
              "kayıt için gerekli evraklarım eksik kayıt yaptıra bilir miyim", "afdhgjafgda",
@@ -21,29 +21,47 @@ for x in questions:
     i = i + 1
 
 # json = json.dumps(SıkSorulanSorularData.faq)
-# f = open("./Data/FaqData.json","w")
+# f = open("./JsonData/FaqData.json","w")
 # f.write(json).encode('utf8')
 # f.close()
 
 
-f = open("./Data/FaqData.json", "r",encoding="utf8")
+
+f = open("JsonData/FaqData.json", "r", encoding="utf8")
 data = f.read()
 FaqData = json.loads(data)
 f.close()
 
-f = open("./Data/AnswersData.json", "r",encoding="utf8")
+f = open("JsonData/AnswersData.json", "r", encoding="utf8")
 data = f.read()
 AnswersData = json.loads(data)
 f.close()
 
+<<<<<<< Updated upstream
+=======
+f = open("JsonData/JsonData.json", "r", encoding="utf8")
+data = f.read()
+JsonData = json.loads(data)
+f.close()
+
+>>>>>>> Stashed changes
 # def gelen (questions):
 #      OrtakCevap = KiyaslamaAlgoritamalari.AlgoritmaCagir(FaqData, AnswersData, questions)
 #      return OrtakCevap
 
 
 Soru = input("\nSoruyu Seçiniz : ")
+
+questions1 = questions[int(Soru)]
+question = noisy_text_normalization.Normalize(questions1)
+
+
 # capitalize gelen cümlenin sadece baş harfinin büyük olmasını sağlar.
+<<<<<<< Updated upstream
 OrtakCevap = KiyaslamaAlgoritamalari.AlgoritmaCagir(FaqData, AnswersData, questions[int(Soru)].capitalize())
+=======
+OrtakCevap = KiyaslamaAlgoritamalari.AlgoritmaCagir(JsonData, str(question).lower())
+>>>>>>> Stashed changes
 
 print("Bot:\n\t " + OrtakCevap)
 

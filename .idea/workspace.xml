@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< Updated upstream
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/Chatbot.py" line="44" />
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="ChangeListManager">
     <list default="true" id="94e0c30a-1e83-497d-af17-db5bcaeab4fe" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +15,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ChatBotApp$setup.coverage" NAME="setup Coverage Results" MODIFIED="1569606802084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ozgur-python-firebase-6b96b32" />
-    <SUITE FILE_PATH="coverage/ChatBotApp$App.coverage" NAME="App Coverage Results" MODIFIED="1572089647122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChatBotApp$App.coverage" NAME="App Coverage Results" MODIFIED="1578072103183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ChatBotApp$chatbot2.coverage" NAME="chatbot2 Coverage Results" MODIFIED="1571211521637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+<<<<<<< Updated upstream
     <SUITE FILE_PATH="coverage/ChatBotApp$Chatbot.coverage" NAME="Chatbot Coverage Results" MODIFIED="1572110039005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+    <SUITE FILE_PATH="coverage/ChatBotApp$Chatbot.coverage" NAME="Chatbot Coverage Results" MODIFIED="1578072519328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> Stashed changes
     <SUITE FILE_PATH="coverage/ChatBotApp$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1572108948986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ChatBotApp$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1569604566465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/ChatBotApp$FuzzyWuzzyAlg.coverage" NAME="FuzzyWuzzyAlg Coverage Results" MODIFIED="1572108955726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KiyaslamaAlg" />
@@ -34,6 +40,7 @@
     <expand />
     <select />
   </component>
+<<<<<<< Updated upstream
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -143,6 +150,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -154,6 +163,7 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -214,6 +224,14 @@
         </subPane>
       </pane>
     </panes>
+=======
+  <component name="ProjectId" id="1XeqtP6O2kBEVxotko5ZFjUESBo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> Stashed changes
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -223,23 +241,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Erdem\Desktop\ChatBotApp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Erdem\Desktop\ChatBotApp\Data" />
       <recent name="C:\Users\Erdem\Desktop\ChatBotApp" />
       <recent name="C:\Users\Erdem\Desktop\ChatBotApp\KiyaslamaAlg" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.Chatbot">
     <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -374,7 +383,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="noisy_text_normalization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ChatBotApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,12 +391,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ozgur-python-firebase-6b96b32" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ozgur-python-firebase-6b96b32/setup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/noisy_text_normalization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,18 +409,18 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.chatbot2" />
       <item itemvalue="Python.chatbot" />
-      <item itemvalue="Python.setup" />
       <item itemvalue="Python.Chatbot" />
       <item itemvalue="Python.App" />
       <item itemvalue="Python.FuzzyWuzzyAlg" />
+      <item itemvalue="Python.noisy_text_normalization" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Chatbot" />
+        <item itemvalue="Python.noisy_text_normalization" />
+        <item itemvalue="Python.App" />
         <item itemvalue="Python.FuzzyWuzzyAlg" />
         <item itemvalue="Python.chatbot" />
-        <item itemvalue="Python.App" />
-        <item itemvalue="Python.setup" />
       </list>
     </recent_temporary>
   </component>
@@ -454,12 +463,25 @@
       <workItem from="1571813148537" duration="1039000" />
       <workItem from="1572089566938" duration="8272000" />
       <workItem from="1572105692957" duration="2821000" />
+<<<<<<< Updated upstream
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="112673000" />
   </component>
+=======
+      <workItem from="1575114230400" duration="3452000" />
+      <workItem from="1575445450089" duration="2299000" />
+      <workItem from="1578071742130" duration="433000" />
+      <workItem from="1578072306404" duration="284000" />
+      <workItem from="1581424004018" duration="691000" />
+      <workItem from="1581427388022" duration="3610000" />
+      <workItem from="1581663684028" duration="4188000" />
+    </task>
+    <servers />
+  </component>
+>>>>>>> Stashed changes
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -469,6 +491,7 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+<<<<<<< Updated upstream
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
@@ -495,6 +518,8 @@
       <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
     </layout>
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -502,6 +527,56 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="134" key="#App" timestamp="1581418222418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="134" key="#App/0.0.1920.1040@0.0.1920.1040" timestamp="1581418222418" />
+    <state x="442" y="363" width="440" height="482" key="FileChooserDialogImpl" timestamp="1581417877322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="442" y="363" width="440" height="482" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581417877322" />
+    <state width="932" height="220" key="GridCell.Tab.0.bottom" timestamp="1581678847044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="932" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581678847044" />
+    <state width="932" height="220" key="GridCell.Tab.0.center" timestamp="1581678847043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="932" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581678847043" />
+    <state width="932" height="220" key="GridCell.Tab.0.left" timestamp="1581678847043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="932" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581678847043" />
+    <state width="932" height="220" key="GridCell.Tab.0.right" timestamp="1581678847043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="932" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581678847043" />
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom" timestamp="1581418381058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581418381058" />
+    <state width="1899" height="328" key="GridCell.Tab.1.center" timestamp="1581418381058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581418381058" />
+    <state width="1899" height="328" key="GridCell.Tab.1.left" timestamp="1581418381058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581418381058" />
+    <state width="1899" height="328" key="GridCell.Tab.1.right" timestamp="1581418381058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581418381058" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1581419546010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581419546010" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581663684049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581663684049" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -514,6 +589,7 @@
       </default-breakpoints>
     </breakpoint-manager>
   </component>
+<<<<<<< Updated upstream
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/Ch.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -720,5 +796,10 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChatBotApp$noisy_text_normalization.coverage" NAME="noisy_text_normalization Coverage Results" MODIFIED="1581429693763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChatBotApp$Chatbot.coverage" NAME="Chatbot Coverage Results" MODIFIED="1581668870024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> Stashed changes
   </component>
 </project>

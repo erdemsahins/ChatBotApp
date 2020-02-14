@@ -15,10 +15,17 @@ def possibleAnswer(faq, question):
     for key, value in faq.items():
         distances[key] = 0
         for key2, value2 in value.items():
+<<<<<<< Updated upstream
             value2 = str(value2).capitalize()
             s = difflib.SequenceMatcher(lambda x: x == " ", question, value2)
             d = round(s.ratio(), 3)
             if distances[key] < d:
+=======
+             if key2 == "faq":
+                value2 = str(value2).lower()
+                s = difflib.SequenceMatcher(lambda x: x == " ", question, value2)
+                d = round(s.ratio(), 3)
+>>>>>>> Stashed changes
                 distances[key] = d
 
     # kıysalma algoritmasında verilerin ön elemeden geçirerek oranın 0.4 ten küçüklerin elenmesi
@@ -30,7 +37,7 @@ def possibleAnswer(faq, question):
 
     # kullanıcın sorduğu sorunun veri tabanında olmaması durumunda emptyQueryData.js dosyasına verilein kayıdı ile verilerin saklanması
     else:
-        with open('./Data/EmptyQueryData.json') as file:
+        with open('./JsonData/EmptyQueryData.json') as file:
             data = json.load(file)
         for key, value in data.items():
             key = int(key) + 1
@@ -38,7 +45,7 @@ def possibleAnswer(faq, question):
         dataveri = {key: question}
         data.update(dataveri)
 
-        with open('./Data/EmptyQueryData.json', 'w') as file:
+        with open('./JsonData/EmptyQueryData.json', 'w') as file:
             json.dump(data, file)
 
         key = []

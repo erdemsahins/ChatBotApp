@@ -1,0 +1,476 @@
+{
+  "1": {
+    "1": "YKS sınavı ile yerleştim kayıt için ne yapmam gerekiyor? "
+  },
+  "2": {
+    "1": "YKS sınavı ile yerleştirildim. Kayıt için gelemeyecek durumdayım ne yapmalıyım? Posta yolu ile kayıt yaptırabilir miyim?"
+  },
+  "3": {
+    "1": "Kayıt için gerekli evraklarımda eksiklikler var. Eksik olan bir belge olursa yine de kayıt yaptırabilir miyim?"
+  },
+  "4": {
+    "1": "YKS sonucu üniversitenize yerleştirildim. Yerleşmeme rağmen kayıt olamama durumum olabilir mi? "
+  },
+  "5": {
+    "1": "Danışman kimdir? Ne iş yapar?"
+  },
+  "6": {
+    "1": "Kayıt dondurma yapılabilir mi?"
+  },
+  "7": {
+    "1": "Öğrenim Ücreti Ne Zaman Ve Nasıl Ödenir?"
+  },
+  "8": {
+    "1": "Katkı payı ücretlerini kim belirliyor?"
+  },
+  "9": {
+    "1": "Öğrenciler üniversiteye kesin kaydını süresi içinde yaptıramazsa ne olur? "
+  },
+  "10": {
+    "1": "Kesin kayıt için ayrıca rezervasyon yaptırmam gerekir mi?"
+  },
+  "11": {
+    "1": "Not ortalamam 1,80’in altında olduğu zaman kaç kredilik ders alabilirim?"
+  },
+  "12": {
+    "1": "Başka bir üniversiteye kayıtlıyım. Kayıt için lise diplomamın fotokopisi yeterli olur mu?"
+  },
+  "13": {
+    "1": "Üniversiteyi kazandım, ancak Lise ‘den henüz mezun olmadım. Ne zaman ve nasıl kesin kayıt yaptırabilirim?"
+  },
+  "14": {
+    "1": "Üniversitemize yeni kayıt yaptıran öğrencilerin ders alma işlemleri nasıl yapılır?"
+  },
+  "15": {
+    "1": "Kırklareli Üniversitesi programlarına ÖSYM’nin yapacağı yerleştirme dışında kayıt olabilmem mümkün mü?"
+  },
+  "16": {
+    "1": "Öğrenci belgesini nereden alabilirim?"
+  },
+  "17": {
+    "1": "Daha önceden bir yükseköğretim kurumunda kayıtlı olduğumda başarılı olduğum ders/derslerden nasıl muaf olabilirim?"
+  },
+  "18": {
+    "1": "Akademik başarı not ortalamalarımdan YANO ve GANO ne anlama gelmektedirler?"
+  },
+  "19": {
+    "1": "Öğrenim ücretimi ödedim ancak kayıt dondurdum. Kayıt dondurduğum dönem için öğrenim ücreti ödemem gerekir mi?"
+  },
+  "20": {
+    "1": "Öğrenci kaydını sildirmek istediği zaman ne yapmalıdır?"
+  },
+  "21": {
+    "1": "Askerlik tecil işlemleri nasıl yapılır?"
+  },
+  "22": {
+    "1": "Birinci sınıf öğrencileri üst sınıftan ders alabilir mi?"
+  },
+  "23": {
+    "1": "Kayıt yaptırmadığım dönem öğrenim süremden sayılır mı?"
+  },
+  "24": {
+    "1": "Lise diplomamı kaybettim. Kayıt için ne yapmalıyım?"
+  },
+  "25": {
+    "1": "Üniversiteniz kampüs ve yerleşkelerine ulaşım nasıl sağlanıyor?"
+  },
+  "26": {
+    "1": "Kırklareli’ de yurt ve barınma imkanları nelerdir?"
+  },
+  "27": {
+    "1": "Staj başvurusu ne zaman ve nasıl yapılır? Hangi işletmelerde staj yapabilirim?"
+  },
+  "28": {
+    "1": "Ders ve sınav programlarını nereden öğrenebilirim?"
+  },
+  "29": {
+    "1": "Kampüse veya sınavlara girerken öğrenci kimlik kartım yanımda yoksa ne yapmalıyım?"
+  },
+  "30": {
+    "1": "Öğrenci Kulüpleri Nelerdir? Nasıl Üye olabilirim?"
+  },
+  "31": {
+    "1": "e-POSTA HESABI NASIL ALINIR?"
+  },
+  "32": {
+    "1": "E-POSTA ŞİFRESİ NASIL SIFIRLANIR?"
+  },
+  "33": {
+    "1": "EBYS KULLANICI GİRİŞİ YAPAMIYORUM.NE YAPABİLİRİM?"
+  },
+  "34": {
+    "1": "EBYS-YE E-İMZA İLE GİRİŞ YAPTIĞIM HALDE BELGEYİ E-İMZA İLE İMZALAYAMIYORUM.NE YAPABİLİRİM?"
+  },
+  "35": {
+    "1": "EBYS'DE BELGEYE PARAF ATAMIYORUM.NE YAPABİLİRİM?"
+  },
+  "36": {
+    "1": "ÖĞRENCİ BİLİGİ SİSTEMİNDE KULLANICI GİRİŞİ YAPAMIYORUM.NE YAPABİLİRİM?"
+  },
+  "37": {
+    "1": "BİLGİ YÖNETİM SİSTEMİ NEDİR?"
+  },
+  "38": {
+    "1": "DESTEK TALEP SİSTEMİ NEDİR?"
+  },
+  "39": {
+    "1": "İÇERİK YÖNETİM SİSTEMİ NEDİR?"
+  },
+  "40": {
+    "1": "PERSONEL WEB YÖNETİM SİSTEMİ NEDİR?"
+  },
+  "41": {
+    "1": "Kimler Bap Proje Başvurusu Yapabilir?"
+  },
+  "42": {
+    "1": "Kimler Proje Yürütücüsü Olarak Başvuruda Bulunabilir?"
+  },
+  "43": {
+    "1": "Başvurular Ne Zaman Ve Nasıl Yapılacaktır?"
+  },
+  "44": {
+    "1": "En Fazla Kaç Adet Proje Başvurusu Yapılabilir?"
+  },
+  "45": {
+    "1": "Başvurular Ne Şekilde Değerlendirilir?"
+  },
+  "46": {
+    "1": "Projelerin Yararlanabileceği Destek Miktarı Nedir?"
+  },
+  "47": {
+    "1": "Proje Süresi Ne Kadar Olabilir?"
+  },
+  "48": {
+    "1": "Proje Başvurularında Başka Üniversite Ya Da Kurumlarla Işbirliği Yapılabilir Mi?"
+  },
+  "49": {
+    "1": "Proje Önerilerinde Çalıştırılacak Personel Ile Ilgili Uygulama Prensibi Nedir?"
+  },
+  "50": {
+    "1": "Proje Önerilerinde Yurt Içi Ve Yurt Dışı Bilimsel Konferanslara Katılım Bap Fonundan Desteklenebilir Mi?"
+  },
+  "51": {
+    "1": "Yurtiçi Ve Yurt Dışı Yolluk/harcırah Giderleri Için Üniversitenin Önceden Belirlemiş Olduğu Sınırlamalar Ya Da Rayiçler Var Mı?"
+  },
+  "52": {
+    "1": "Kongre/sempozyum Katılım Ücreti Ne Zaman Ödenir?"
+  },
+  "53": {
+    "1": "Projem Kabul Edildi. Mal Ve Malzeme Alımlarını Nasıl Yapabilirim?"
+  },
+  "54": {
+    "1": "Proje Raporlarımı Nasıl Ve Nereye Teslim Edebilirim?"
+  },
+  "55": {
+    "1": "Projemde Bütçe Kalemleri Arası (Tüketim / Yolluk / Demirbaş / Hizmet Bütçeleri) Aktarma Gerçekleştirebilir Miyim? Bunun Için Ne Yapmak Gerekiyor?"
+  },
+  "56": {
+    "1": "Projem Için Ek Süre/ek Bütçe/dondurma Talebi Yapabiliyor Muyum?"
+  },
+  "57": {
+    "1": "Projemi Nasıl Ve En Fazla Ne Kadar Sürede Sonlandırabilirim?"
+  },
+  "58": {
+    "1": "Proje Tamamlandıktan Sonra Yayına Dönüştürme Zorunluluğu Var Mıdır?"
+  },
+  "59": {
+    "1": "Projeden Çıkacak Yayınlar Için Ne Yapmam Gerekir?"
+  },
+  "60": {
+    "1": "Dpt, Tübitak, Ab Projeleri Için Neler Yapmam Gerekir?"
+  },
+  "61": {
+    "1": "Projede Araştırma Görevlisiyim, Proje Başvurusunu Veya Yürüyen Bir Proje Ile Ilgili Bir Talebi Ben Gerçekleştirebilir Miyim?"
+  },
+  "62": {
+    "1": "Devam Etmekte Olan Bir Nap(Normal Araştırma Projesi /önap (Çok Disiplinli Öncelikli Alan Projeleri) Projesinin Yürütücüsüyüm. Yeni Bir Nap/önap Projesi Için Başvuru Yapabilir Miyim?"
+  },
+  "63": {
+    "1": "Devam Etmekte Olan Bir Nap/önap Projesinin Yürütücüsüyüm. Yeni Bir Tez Projesi Için Başvuru Yapabilir Miyim?"
+  },
+  "64": {
+    "1": "Bir Araştırmacının Yürütebileceği Tez Projelerinin Sayısında Herhangi Bir Sınırlama Var Mı?"
+  },
+  "65": {
+    "1": "Çocuk Üniversitesi Nedir?"
+  },
+  "66": {
+    "1": "Atölyeler hangi tarihlerde yapılacaktır?"
+  },
+  "67": {
+    "1": "Atölyeler kaç gün sürecek? Hangi saat aralıklarında olacak?"
+  },
+  "68": {
+    "1": "Bir öğrenci en fazla kaç atölyeye katılabilir?"
+  },
+  "69": {
+    "1": "Başvurular nasıl ve ne zaman gerçekleştirilecektir?"
+  },
+  "70": {
+    "1": "Program ücreti ne kadardır?"
+  },
+  "71": {
+    "1": "Eğitim ücretleri nereye yatırılacaktır?"
+  },
+  "72": {
+    "1": "Eğitimler nerede gerçekleştirilecektir?"
+  },
+  "73": {
+    "1": "Eğitimler kimler tarafından verilecektir?"
+  },
+  "74": {
+    "1": "Servis hizmeti var mıdır?"
+  },
+  "75": {
+    "1": "2018-2019 eğitim öğretim yılında mezun olan öğrenciler hangi programlara katılabilirler?"
+  },
+  "76": {
+    "1": "Veri tabanlarında Yer Alan E-Kitaplarıda Katalog Taramada Görebilir Miyim?"
+  },
+  "77": {
+    "1": "Veri Tabanlarından Çıktı Alabilir, Bilgisayarıma Kaydedebilir Yada E-Mailime Gönderebilir Miyim?"
+  },
+  "78": {
+    "1": "Veri tabanlarına Kampüs Dışından Nasıl Ulaşabilirim?"
+  },
+  "79": {
+    "1": "Kütüphanede Hangi Veri tabanları Mevcut?"
+  },
+  "80": {
+    "1": "Kendi Kütüphanemizde Bulunmayan Yayınları Başka Bir Kütüphaneden Getirtebilir Miyim?"
+  },
+  "81": {
+    "1": "Kütüphaneler arası Ödünç Verme Sistemi (Ill) Ile Yayın Getirtmek Için Ne Yapmalıyım?"
+  },
+  "82": {
+    "1": "Kütüphane Hesabıma (Üye Girişine) Girdikten Sonra Hangi Işlemleri Yapabilirim?"
+  },
+  "83": {
+    "1": "Web Üzerinden Kütüphane Hesabıma Nasıl Girebilirim?"
+  },
+  "84": {
+    "1": "Uzatma İşlemini Nasıl Yapabilirim?"
+  },
+  "85": {
+    "1": "Ödünç Aldığım Yayınların Ödünç Tarihini Uzatma Imkanım Var Mı?"
+  },
+  "86": {
+    "1": "Kütüphaneden En Fazla Kaç Yayın Kaç Gün Süreyle Ödünç Alabilirim?"
+  },
+  "87": {
+    "1": "Kütüphanede Bulunan Yayınları Nasıl Görebilirim?"
+  },
+  "88": {
+    "1": "Kütüphane Çalışma Saatleri Nedir?"
+  },
+  "89": {
+    "1": "Microsoft IT Academy nedir?"
+  },
+  "90": {
+    "1": "KLU IT Academy nedir?"
+  },
+  "91": {
+    "1": "KLU IT Academy Eğitimleri nedir?"
+  },
+  "92": {
+    "1": "KLU IT Academy eğitimleri bana ne kazandırır?"
+  },
+  "93": {
+    "1": "KLU IT Academy Eğitimleri ne zaman?"
+  },
+  "94": {
+    "1": "Kayıt için herhangi bir ön şart var mıdır?"
+  },
+  "95": {
+    "1": "KLU IT Academy Eğitimlerine nasıl kayıt olabilirim?"
+  },
+  "96": {
+    "1": "Eğitim nasıl verilecektir?"
+  },
+  "97": {
+    "1": "Şuan Hangi Ortak Dersleri Kluzem Vermekte? Bu Dersler Hakkında Nasıl Bilgi Alabiliriz?"
+  },
+  "98": {
+    "1": "Uzaktan öğretim için gereksinimler nelerdir?"
+  },
+  "99": {
+    "1": "Uzem in Görevi Nedir?"
+  },
+  "100": {
+    "1": "Sisteme Nasıl Girebilirim? Şifremi Unuttum. Ne Yapmalıyım?"
+  },
+  "101": {
+    "1": "Uzaktan Eğitim Dersine Devam Zorunluluğu Var Mı?"
+  },
+  "102": {
+    "1": "Ders Içeriklerini Kolayca Görüntüleyebilmek Için Bilgisayarımda Ne Tür Bir Donanıma Ihtiyaç Var?"
+  },
+  "103": {
+    "1": "Hangi Internet Browser’Inı Kullanmalıyım?"
+  },
+  "104": {
+    "1": "Uzaktan Eğitim Dersleri Video Ve Ses Içermektedir. Bunlar Nasıl Daha Etkin Çalıştırılabilir?"
+  },
+  "105": {
+    "1": "İyi Birer Uzaktan Eğitim Öğrencisi Olmanın Şartları Nelerdir?"
+  },
+  "106": {
+    "1": "Erasmus+ programına katılmak için ne yapmalıyız?"
+  },
+  "107": {
+    "1": "Not ortalamamız 2.20'nin altında olursa programdan yararlanabilir miyiz?"
+  },
+  "108": {
+    "1": "Not ortalamamız sınav sonucuna etkili olacak mı?"
+  },
+  "109": {
+    "1": "Sözlü sınav yapılacak mı ve sınavlar için ücret ödeniyor mu?"
+  },
+  "110": {
+    "1": "Ne kadar hibe alacağız?"
+  },
+  "111": {
+    "1": "Hibelerimizi neye göre alacağız?"
+  },
+  "112": {
+    "1": "Aynı üniversiteye gidecek öğrencilerin hibeleri neden farklı?"
+  },
+  "113": {
+    "1": "Hibeler aylık mı yatacak?"
+  },
+  "114": {
+    "1": "Vize için üniversiteden yazı almamıza rağmen niçin konsoloslukta vize ücreti ödüyoruz?"
+  },
+  "115": {
+    "1": "Hibe anlaşmasını neden iki (2) tane yapıyoruz?"
+  },
+  "116": {
+    "1": "Pasaport için ödenen defter bedeli ne kadardır?"
+  },
+  "117": {
+    "1": "Neden EURO hesabı açtırmak gereklidir?"
+  },
+  "118": {
+    "1": "Hibe anlaşmasının üstündeki tarihler neye göre belirlenir?"
+  },
+  "119": {
+    "1": "Yurtdışında eğitim görülecek olan üniversitelerde konaklama yerini nasıl bulacağız?"
+  },
+  "120": {
+    "1": "Hibeler ne zaman yatar?"
+  },
+  "121": {
+    "1": "Gidilen ülkede bizi karşılayacaklar mı?"
+  },
+  "122": {
+    "1": "Verilen hibeler bize kaldığımız süre zarfında yeterli olacak mı?"
+  },
+  "123": {
+    "1": "Gidilen üniversitelerde alacağımız dersler İngilizce mi olacak?"
+  },
+  "124": {
+    "1": "Gittiğimiz üniversitede dil kursu olacak mı?"
+  },
+  "125": {
+    "1": "Hangi üniversitelere gidebilirim?"
+  },
+  "126": {
+    "1": "İntibak belgesini nasıl dolduracağım? "
+  },
+  "127": {
+    "1": "Kabul mektubum gelmedi, ne yapmalıyım?"
+  },
+  "128": {
+    "1": "Vizem çıkmadı, ders kaydımı yaptırmalı mıyım?"
+  },
+  "129": {
+    "1": "Erasmus+ programı ile yurtdışındaki üniversitede öğrenimime devam edeceğim, harcı hangi üniversiteye yatıracağım?"
+  },
+  "130": {
+    "1": "Yurtdışına çıkmadan Kırklareli Üniversitesi'nde kayıt ve ders seçimi yapacak mıyım?"
+  },
+  "131": {
+    "1": "Erasmus+ Öğrenci Beyannamesi nedir? "
+  },
+  "132": {
+    "1": "Öğrenci üniversiteye başladığı yıl Erasmus+ programından yararlanabilir mi?"
+  },
+  "133": {
+    "1": "Önlisans öğrencileri değişim yapabilir mi?"
+  },
+  "134": {
+    "1": "Yüksek lisans kademesinde Erasmus+ programından faydalanmış olan bir öğrenci doktora kademesinde de programdan yararlanabilir mi?"
+  },
+  "135": {
+    "1": "İntibak belgesinde yazılması gereken üniversite Erasmus kodlarını nereden bulabiliriz?"
+  },
+  "136": {
+    "1": "Öğrenimimi yurt dışında tamamladım, %20'lik hibe/kalan hibeyi almak için ne yapmalıyım?"
+  },
+  "137": {
+    "1": "Dönüşte alacağım %20'lik hibenin verilmeme olasılığı var mı?"
+  },
+  "138": {
+    "1": "İki dönemliğine gittim, bir dönem kaldım, ne yapmalıyım?"
+  },
+  "139": {
+    "1": "Gittiğim üniversitede planlanan faaliyet dönemi tamamlanmadan geri döndüğüm takdirde nasıl bir uygulamayla karşılaşırım?"
+  },
+  "140": {
+    "1": "Ders intibaklarındaki AKTS (ECTS) kredileri neye göre düzenleniyor?"
+  },
+  "141": {
+    "1": "Yurtdışında alınan AKTS'nin Kırklareli Üniversitesi'ndeki not dönüşümü nasıl yapılmaktadır?"
+  },
+  "142": {
+    "1": "Engelli öğrenciyim, şartlar benim için de aynı mı?"
+  },
+  "143": {
+    "1": "Sınavda yedekler listesindeyim ne yapmalıyım?"
+  },
+  "144": {
+    "1": "Tercihimi değiştirmek istiyorum ne yapabilirim?"
+  },
+  "145": {
+    "1": "GÜZ dönemi için yurtdışına tek dönemlik giden bir öğrenci eğitim dönemini BAHAR dönemi için de uzatabilir mi?"
+  },
+  "146": {
+    "1": "Kabul belgemin ve hibe sözleşmemin 1 dönemlik olması ve öğrenim anlaşmamın 2 dönemlik olması halinde, 2. dönem için de Erasmus+ öğrencisi sayılır mıyım?"
+  },
+  "147": {
+    "1": "Açıköğretim ve/veya uzaktan eğitim öğrencisiyim, Erasmus+ programından yararlanabilir miyim?"
+  },
+  "148": {
+    "1": "Alttan kalan dersim var, programdan yararlanabilir miyim?"
+  },
+  "149": {
+    "1": "OLS Sistemi Nedir?"
+  },
+  "150": {
+    "1": "Hangi dilleri kapsamaktadır?"
+  },
+  "151": {
+    "1": "Çevrimiçi Dil Desteği'ne nasıl katılabiliriz?"
+  },
+  "152": {
+    "1": "AB Anketi (EU Survey) nedir?"
+  },
+  "153": {
+    "1": "Öğrenim hareketliliği öncesinde hangi sigortaları yaptırmam gereklidir?"
+  },
+  "154": {
+    "1": "Hibe hesaplaması nasıl yapılmaktadır?"
+  },
+  "155": {
+    "1": "Program Ülkeleri (KA103) ile Ortak Ülkeler (KA107) hangi ülkeleri kapsamaktadır?"
+  },
+  "156": {
+    "1": "Öğrenciler seyahat hibesi desteği alabiliyor mu?"
+  },
+  "157": {
+    "1": "KA107 projesinde öğrenciler ne kadar aylık hibe miktarı alacaktır?"
+  },
+  "158": {
+    "1": "KA107 projesinde Çevrimiçi Dil Desteği verilecek midir?"
+  }
+}
