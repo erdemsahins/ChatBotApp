@@ -1,6 +1,7 @@
 import heapq
-import re, math
+import math
 import operator
+import re
 from collections import Counter
 
 WORD = re.compile(r'\w+')
@@ -32,27 +33,19 @@ Cosine = (AB) / (|| A ||. || B ||) ki burada A ve B vektörlerdir.
 """
 
 
-def CosineSimilarity(faq, question):
+def CosineSimilarity(Data, question):
     distances = {}
-    for key, value in faq.items():
+    for key, value in Data.items():
         distances[key] = 0
         for key2, value2 in value.items():
-<<<<<<< Updated upstream
-            value2 = str(value2).capitalize()
-            vector1 = text_to_vector(value2)
-            vector2 = text_to_vector(question)
-            cosine = get_cosine(vector1, vector2)
-            if distances[key] < cosine:
-                distances[key] = cosine
-=======
-            if(key2=="faq"):
+            if key2 == "faq":
                 value2 = str(value2).lower()
                 vector1 = text_to_vector(value2)
                 vector2 = text_to_vector(question)
                 cosine = get_cosine(vector1, vector2)
-                distances[key] = cosine
+                if distances[key] < cosine:
+                    distances[key] = cosine
 
->>>>>>> Stashed changes
     oran = (max(distances.items(), key=operator.itemgetter(1)))[1]
     if oran > 0.4:
         enYuksekİkiDeger = heapq.nlargest(2, distances.items(), key=operator.itemgetter(1))

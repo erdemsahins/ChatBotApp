@@ -1,9 +1,10 @@
 from os.path import join
+
 from jpype import JClass, JString, getDefaultJVMPath, shutdownJVM, startJVM
 
 
 def Normalize(query):
-    ZEMBEREK_PATH: str = join( 'bin', 'zemberek-full.jar')
+    ZEMBEREK_PATH: str = join('Zemberek','bin', 'zemberek-full.jar')
 
     startJVM(
         getDefaultJVMPath(),
@@ -21,10 +22,10 @@ def Normalize(query):
     normalizer = TurkishSentenceNormalizer(
         TurkishMorphology.createWithDefaults(),
         Paths.get(
-            join('ZemberekData', 'normalization')
+            join('Zemberek','ZemberekData', 'normalization')
         ),
         Paths.get(
-            join('ZemberekData', 'lm', 'lm.2gram.slm')
+            join('Zemberek','ZemberekData', 'lm', 'lm.2gram.slm')
         )
     )
 

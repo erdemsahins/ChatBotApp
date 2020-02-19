@@ -1,7 +1,7 @@
 import difflib
 import heapq
-import operator
 import json
+import operator
 
 """
 SequenceMatcher(None,a,b), difflib modülü altında gelen bir sınıftır. 
@@ -10,23 +10,17 @@ Get yöntemi verilen anahatar değeri döndürür.
 """
 
 
-def possibleAnswer(faq, question):
+def possibleAnswer(Data, question):
     distances = {}
-    for key, value in faq.items():
+    for key, value in Data.items():
         distances[key] = 0
         for key2, value2 in value.items():
-<<<<<<< Updated upstream
-            value2 = str(value2).capitalize()
-            s = difflib.SequenceMatcher(lambda x: x == " ", question, value2)
-            d = round(s.ratio(), 3)
-            if distances[key] < d:
-=======
-             if key2 == "faq":
+            if key2 == "faq":
                 value2 = str(value2).lower()
                 s = difflib.SequenceMatcher(lambda x: x == " ", question, value2)
                 d = round(s.ratio(), 3)
->>>>>>> Stashed changes
-                distances[key] = d
+                if distances[key] < d:
+                    distances[key] = d
 
     # kıysalma algoritmasında verilerin ön elemeden geçirerek oranın 0.4 ten küçüklerin elenmesi
     oran = (max(distances.items(), key=operator.itemgetter(1)))[1]
