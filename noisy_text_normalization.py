@@ -13,6 +13,7 @@ def Normalize(query):
         convertStrings=False
     )
 
+
     TurkishMorphology: JClass = JClass('zemberek.morphology.TurkishMorphology')
     TurkishSentenceNormalizer: JClass = JClass(
         'zemberek.normalization.TurkishSentenceNormalizer'

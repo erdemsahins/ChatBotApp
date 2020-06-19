@@ -22,7 +22,7 @@ def get_jaccard_sim(Data, question):
                     distances[key] = d
 
     oran = (max(distances.items(), key=operator.itemgetter(1)))[1]
-    if oran > 0.3:
+    if oran > 0.01:
         enYuksekİkiDeger = heapq.nlargest(2, distances.items(), key=operator.itemgetter(1))
         key = enYuksekİkiDeger
     else:

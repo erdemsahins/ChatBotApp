@@ -24,7 +24,7 @@ def possibleAnswer(Data, question):
 
     # kıysalma algoritmasında verilerin ön elemeden geçirerek oranın 0.4 ten küçüklerin elenmesi
     oran = (max(distances.items(), key=operator.itemgetter(1)))[1]
-    if oran > 0.4:
+    if oran > 0.01:
         # en yüksek iki değer döndürülmesi için sıralanıp ilk iki değer kaydediliyor ve key olarak atanır
         enYuksekİkiDeger = heapq.nlargest(2, distances.items(), key=operator.itemgetter(1))
         key = enYuksekİkiDeger

@@ -47,7 +47,7 @@ def CosineSimilarity(Data, question):
                     distances[key] = cosine
 
     oran = (max(distances.items(), key=operator.itemgetter(1)))[1]
-    if oran > 0.4:
+    if oran > 0.01:
         enYuksekİkiDeger = heapq.nlargest(2, distances.items(), key=operator.itemgetter(1))
         key = enYuksekİkiDeger
     else:
