@@ -1,5 +1,5 @@
 # ChatBotApp
-Kırklareli Üniversitesi Chat Bot (ÜNİBOT) Uygulaması
+## Kırklareli Üniversitesi Chat Bot (ÜNİBOT) Uygulaması
 
 Kıyaslama algoritması kullanılarak okulun sık sorulan sorularına otomatik olarak cevap veren bir bottur.
 Chatbot uygulamamız soruların %94.33’ünü doğru cevaplandırmaktadır. Uygulamanın son halinde kaynak kodu kütüphane haline getirilecek olup web sevisi olarak hizmet verecektir.
