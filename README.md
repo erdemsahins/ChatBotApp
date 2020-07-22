@@ -12,3 +12,5 @@ Chatbot uygulamamız soruların %94.33’ünü doğru cevaplandırmaktadır. Uyg
 
 ## DÖKÜMANTASYON
 [DESTEK SİSTEMLERİNE CHATBOT ENTEGRESİ.pdf](https://github.com/erdemsahins/ChatBotApp/files/4821280/DESTEK.SISTEMLERINE.CHATBOT.ENTEGRESI.pdf)
+
+
